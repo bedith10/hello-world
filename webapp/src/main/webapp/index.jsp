@@ -1,2 +1,2 @@
-<h1> Thank you, Have happy Learning </h1>
+<h1> Welcome to the CI/Cd class </h1>
    
